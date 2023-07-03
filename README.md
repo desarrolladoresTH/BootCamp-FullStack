@@ -1,6 +1,6 @@
 # _BootCamp_ de Desarrollo _Web Full Stack_
 
-![](img/169.png)
+![](img/16-9.png)
 
 ## Contenido de este Repositorio
 
