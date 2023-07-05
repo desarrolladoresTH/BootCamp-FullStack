@@ -109,6 +109,8 @@ Un lenguaje de programación es un conjunto de reglas que se utilizan para escri
 
 ## Terminal de Comandos
 
+En el sistema operativo _Windows_, recomendamos usar la terminal que tiene _Git_, al instalarlo en tu equipo en ocaciones te pregunta si quieres instalar _Git Bash_, esa es la terminal que recomendamos. _Git Bash_ es la terminal que más estandariza los comandos de los diferentes sistemas operativos.
+
 ### Comandos básicos
 
 | Comando  | Descripción                                |
@@ -135,4 +137,39 @@ Un lenguaje de programación es un conjunto de reglas que se utilizan para escri
 
 ## _Git/GitHub_
 
+### Importante
+
+> ### _Git ≠ GitHub_
+
+Se suele pensar que son lo mismo, tal vez se deba al hecho de que solemos escribirlos pegados con una barra diagonal.
+
+### _Git_
+
+Es por mucho el software de **control de versiones** más ocupado del mundo.
+Las versiones se guardan de manera local, en tu equipo de computo.
+
+[Página oficial](https://git-scm.com)
+
+### _GitHub_
+
+Es el **control de versiones** remoto más ocupado del mundo.
+Las versiones se guardan de manera remota, en su página web.
+
+[Página oficial](https://github.com)
+
+//En Construcción...
+
 ## _HTML_
+
+Lenguaje de marcas de hipertexto.
+
+> Sin _HTML_ no hay _web_.
+
+Es el lenguaje más básico de la _web_.
+
+> ¡Ojo! _HTML_ sí es un lenguaje, pero no de programación.
+
+Pensemos que para ser un lenguaje de programación se requiere que dicho lenguaje tenga funciones.
+
+_Ok_, su función principal es: ser
+el encargado de la estructura de una página _web_.
