@@ -157,6 +157,8 @@ Las versiones se guardan de manera remota, en su página web.
 
 [Página oficial](https://github.com)
 
+![](img/flujo-git.png)
+
 //En Construcción...
 
 ## _HTML_
