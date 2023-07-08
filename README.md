@@ -12,7 +12,7 @@
 1. _CSS_
 1. _Markdown_
 1. _Bootstrap_
-1. _JavaScript_
+1. [_JavaScript_](#javascript)
 1. _TypeScript_
 1. _SASS_
 1. _APIs_
@@ -36,16 +36,18 @@
 
 ## Introducción
 
-## ¿Por qué creamos este proyecto?
+### ¿Por qué creamos este proyecto?
 
 Nuestra intención es ponerte el inicio de tu camino como _dev_ mucho más sencillo.
 
-## ¿Como recomendamos usar este repo?
+### ¿Como recomendamos usar este repo?
 
 Simple, con dedicarle 3 días a la semana a estudiarlo, es decir, lees y lo pones en practica, tal vez por una o dos horas el día que lo estudies, irás bien. El aprendizaje real se dará solo si comienzas a crear proyectos con este conocimiento.
 
 Te animo a consultar la fecha de las próximas clases en la seeción de Avisos o en cualquiera de nuestras redes sociales.
 ¡Gracias por estar aquí! 🙂
+
+---
 
 ## Preguntas Comunes
 
@@ -135,6 +137,8 @@ En el sistema operativo _Windows_, recomendamos usar la terminal que tiene _Git_
 | `..`    | directorio padre / directorio superior |
 | `~`     | directorio home: c/Users/usuario       |
 
+---
+
 ## _Git/GitHub_
 
 ### Importante
@@ -161,6 +165,8 @@ Las versiones se guardan de manera remota, en su página web.
 
 //En Construcción...
 
+---
+
 ## _HTML_
 
 Lenguaje de marcas de hipertexto.
@@ -175,6 +181,32 @@ Pensemos que para ser un lenguaje de programación se requiere que dicho lenguaj
 
 _Ok_, su función principal es: ser
 el encargado de la estructura de una página _web_.
+
+//En Construcción...
+
+---
+
+## _VSC_
+
+//En Construcción...
+
+---
+
+## _CSS_
+
+//En Construcción...
+
+---
+
+## _Markdown_
+
+//En Construcción...
+
+---
+
+## _Bootstrap_
+
+//En Construcción...
 
 ---
 
@@ -246,3 +278,7 @@ Y no solo puedes trabajar en la _Web_, sino también en:
 > - function () { }
 > - Class {}
 > - ...
+
+//En Construcción...
+
+---
