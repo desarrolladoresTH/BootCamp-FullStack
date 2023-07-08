@@ -175,3 +175,74 @@ Pensemos que para ser un lenguaje de programación se requiere que dicho lenguaj
 
 _Ok_, su función principal es: ser
 el encargado de la estructura de una página _web_.
+
+---
+
+## _JavaScript_
+
+### Importante
+
+> ### _JavaScript ≠ Java_
+
+![](img/EstoEsJS.png)
+
+También conocido por sus siglas _JS_, fue desarrollado el 1995 por Brendan Eich.
+
+### _ECMAScript_
+
+También conocido como _ES_, es un estándar de lenguaje de programación que especifica cómo deben funcionar los scripts en un entorno de programación.
+Fue creado para estandarizar el lenguaje JavaScript, que se utiliza ampliamente en la programación _web_.
+
+_ECMAScript_ define la sintaxis, estructuras de datos, tipos y funcionalidades del lenguaje JavaScript. Está diseñado para ser implementado en diferentes entornos, como navegadores web y servidores, y permite a los desarrolladores escribir código JavaScript compatible que funcione de manera consistente en diferentes plataformas.
+
+Cada versión de ECMAScript introduce nuevas características y mejoras al lenguaje JavaScript. Las versiones más conocidas de ECMAScript son ECMAScript 5 (lanzado en 2009), ECMAScript 6 (también conocido como ES6 o ES2015, lanzado en 2015) y ECMAScript 2015 (ES2015).
+
+ECMAScript ha tenido un impacto significativo en el desarrollo web, ya que ha permitido a los desarrolladores crear aplicaciones web más interactivas y dinámicas. Además, ha impulsado la adopción de tecnologías como Node.js, que permite ejecutar código JavaScript en el servidor.
+
+### Isomorfismo
+
+El isomorfismo, de manera simple, es una relación entre dos cosas que tienen la misma forma pero pueden ser diferentes en otros aspectos.
+
+_JS_ puede ejecutarse tanto en el _**Frontend**_ como en el _**Backend**_.
+
+Y no solo puedes trabajar en la _Web_, sino también en:
+
+- Diseño y Desarrollo Web
+- Videojuegos
+- Experiencia 3D
+- Realidad Aumentada
+- Realidad Virtual
+- Controlar Hardware
+- Aplicaciones Híbridas y Móviles
+- Machine Learning
+- ...
+
+### Características
+
+- Lenguaje de alto nivel
+- Interpretado
+- Dinámico
+- Tipado Débil
+- Multiparadigma
+- El punto y coma al final de la línea es opcional
+- Case Sensitive: sensible a Mayúsculas y minúsculas
+- Es costumbre usar CamelCase para escribir los nombres de las variables
+
+### Tipos de Datos
+
+#### Los Fundamentales o Primitivos
+
+> - string
+> - number
+> - boolean
+> - null
+> - undefined
+> - NaN
+
+#### Los Secundarios o Compuestos
+
+> - object = {}
+> - array = []
+> - function () { }
+> - Class {}
+> - ...
