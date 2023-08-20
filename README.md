@@ -42,7 +42,7 @@ Nuestra intención es ponerte el inicio de tu camino como _dev_ mucho más senci
 
 ### ¿Como recomendamos usar este repo?
 
-Simple, con dedicarle 3 días a la semana a estudiarlo, es decir, lees y lo pones en practica, tal vez por una o dos horas el día que lo estudies, irás bien. El aprendizaje real se dará solo si comienzas a crear proyectos con este conocimiento.
+Simple, con dedicarle 3 días a la semana a estudiarlo, es decir, lees y lo pones en practica, tal vez por una o dos horas al día que lo estudies, irás bien. El aprendizaje real se dará solo si comienzas a crear proyectos con este conocimiento.
 
 Te animo a consultar la fecha de las próximas clases en la seeción de Avisos o en cualquiera de nuestras redes sociales.
 ¡Gracias por estar aquí! 🙂
@@ -246,6 +246,11 @@ Algunos ejemplos sencillos de diferentes valores para el atributo `href` en la e
 
 `title`: Atributo opcional que proporciona un texto descriptivo o una información adicional sobre el enlace cuando el usuario pasa el cursor sobre él (hace un "_hover_").
 
+**Dos formas de crear un botón**
+
+`<a href="">Clic</a>`
+`<button type="button">Clic</button>`
+
 //En Construcción...
 
 ---
@@ -339,6 +344,34 @@ html {
 
 body {
   font-size: 16px;
+}
+```
+
+### Botones
+
+```css
+.boton {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+```
+
+```css
+.boton {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.boton:hover {
+  background-color: #c0392b;
 }
 ```
 
