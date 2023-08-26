@@ -1,6 +1,6 @@
-# _BootCamp_ de Desarrollo _Web Full Stack_
+# Taller de Desarrollo _Web Full Stack_
 
-![](img/830-380.png)
+![](img/banner-Taller.png)
 
 ## Contenido de este Repositorio
 
@@ -249,6 +249,7 @@ Algunos ejemplos sencillos de diferentes valores para el atributo `href` en la e
 **Dos formas de crear un botón**
 
 `<a href="">Clic</a>`
+
 `<button type="button">Clic</button>`
 
 //En Construcción...
